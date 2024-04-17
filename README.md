@@ -11,5 +11,6 @@ This project aims to predict heart disease using machine learning models. I have
 ## Model Deployment
 The model is deployed using Flask. This allows users to input their data and receive predictions through a simple web interface.
 
-## The Decision Tree model performed exceptionally well, achieving an accuracy of 96%. This project demonstrates the potential of machine learning in predicting heart disease effectively.
+## Conclusion
+The Decision Tree model performed exceptionally well, achieving an accuracy of 96%. This project demonstrates the potential of machine learning in predicting heart disease effectively.
 
